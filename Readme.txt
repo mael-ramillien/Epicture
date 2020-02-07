@@ -1,1 +1,0 @@
-Epitcure project for Epitech

@@ -1,0 +1,4 @@
+#Fri Feb 07 10:26:58 CET 2020
+base.0=/Users/stage/Documents/Epitech/mael/Epicture/epicture/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
